@@ -1,2 +1,0 @@
-# Collab
-A collab file!
