@@ -1,1 +1,1 @@
-- So... react to this to collab with me!
+- So... star the repository with this file to collab with me!
